@@ -2,7 +2,7 @@ package route
 
 import (
 	"gopkg.in/kataras/iris.v6"
-	"eternal/iris/ctrl"
+	"github.com/nobita0590/goframe/ctrl"
 )
 
 func Route(app *iris.Framework) {

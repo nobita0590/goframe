@@ -2,10 +2,11 @@ package ctrl
 
 import (
 	"gopkg.in/kataras/iris.v6"
-	"eternal/iris/models"
+	"github.com/nobita0590/goframe/models"
 	"gopkg.in/mgo.v2/bson"
 	"fmt"
 	"errors"
+	"github.com/kataras/iris"
 )
 
 type (

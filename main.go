@@ -3,8 +3,8 @@ package main
 import (
 	"gopkg.in/kataras/iris.v6"
 	"gopkg.in/kataras/iris.v6/adaptors/httprouter"
-	"eternal/iris/route"
-	"eternal/iris/models/db"
+	"github.com/nobita0590/goframe/route"
+	"github.com/nobita0590/goframe/models/db"
 )
 
 

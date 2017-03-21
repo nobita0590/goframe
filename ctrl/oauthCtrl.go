@@ -1,4 +1,4 @@
-package ctrl
+/*package ctrl
 
 import (
 	"gopkg.in/oauth2.v3/errors"
@@ -50,4 +50,4 @@ func (this OauthCtrl) Authorize(ctx *iris.Context)  {
 
 func (this OauthCtrl) Token(ctx *iris.Context)  {
 
-}
+}*/
